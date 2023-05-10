@@ -1,4 +1,4 @@
-module github.com/filecoin-shipyard/js-lotus-client-schema/go-tsgen
+module github.com/filmineio/js-lotus-client-schema/go-tsgen
 
 go 1.19
 
